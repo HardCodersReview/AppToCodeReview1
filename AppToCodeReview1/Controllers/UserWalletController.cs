@@ -29,10 +29,10 @@ namespace AppToCodeReview1.Controllers
 
         }
         [HttpPost(Name = "Add Card")]
-        public void AddCard([FromBody] Card card)
+        public void AddCard([FromBody] Card card, int userId)
         {
             var repo = new UserRepository(new UserWalletContext());
-            repo.AddCard(card);
+            repo.AddCard(userId,card);
 
         }
         [HttpPost]

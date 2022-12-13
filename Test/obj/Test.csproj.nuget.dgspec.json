@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Test\\Test.csproj": {}
+    "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Test\\Test.csproj": {
+    "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\wkozl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Test\\obj\\",
+        "outputPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wkozl\\AppData\\Roaming\\NuGet\\NuGet.Config",

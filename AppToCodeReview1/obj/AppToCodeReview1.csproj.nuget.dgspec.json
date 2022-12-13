@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\AppToCodeReview1\\AppToCodeReview1.csproj": {}
+    "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\AppToCodeReview1\\AppToCodeReview1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\AppToCodeReview1\\AppToCodeReview1.csproj": {
+    "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\AppToCodeReview1\\AppToCodeReview1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\AppToCodeReview1\\AppToCodeReview1.csproj",
+        "projectUniqueName": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\AppToCodeReview1\\AppToCodeReview1.csproj",
         "projectName": "AppToCodeReview1",
-        "projectPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\AppToCodeReview1\\AppToCodeReview1.csproj",
+        "projectPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\AppToCodeReview1\\AppToCodeReview1.csproj",
         "packagesPath": "C:\\Users\\wkozl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\AppToCodeReview1\\obj\\",
+        "outputPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\AppToCodeReview1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wkozl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Repository\\Repository.csproj"
+              "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Repository\\Repository.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Domain\\Domain.csproj": {
+    "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\wkozl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wkozl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -127,14 +127,14 @@
         }
       }
     },
-    "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Repository\\Repository.csproj": {
+    "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\wkozl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wkozl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -151,8 +151,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\wkozl\\source\\repos\\AppToCodeReview1\\Domain\\Domain.csproj"
+              "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\wkozl\\OneDrive\\Dokumenty\\GitHub\\AppToCodeReview1\\Domain\\Domain.csproj"
               }
             }
           }
